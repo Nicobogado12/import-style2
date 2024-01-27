@@ -1,0 +1,9 @@
+/* styles.css */
+
+/* Estilos generales para todas las pantallas */
+
+@import url('../css/estilos-small.css') screen and (max-width: 767px);
+@import url('../css/estilos-medium.css') screen and (min-width: 768px) and (max-width: 1023px);
+@import url('../css/estilos-large.css') screen and (min-width: 1024px);
+
+/* Agrega estilos adicionales para todas las pantallas aquí */
